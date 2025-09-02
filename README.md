@@ -19,6 +19,7 @@
 
 ## 🎭 About Me (The Director's Cut)
 
+```python
 class Developer:
     def __init__(self):
         self.name = "Anmol Vohra"
@@ -27,14 +28,12 @@ class Developer:
         self.blood_type = "Coffee Positive ☕"
         self.languages_spoken = ["en_US", "Python", "Sarcasm"]
         
-  def say_hi(self):
+    def say_hi(self):
         print("Thanks for dropping by! Hope you find some of my work interesting 🚀")
         print("P.S. If my code works, I'm surprised too!")
 
 me = Developer()
 me.say_hi()
-
-
 ---
 
 ## 🎪 What I'm Currently Up To (Spoiler: Too Much)
