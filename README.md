@@ -34,6 +34,7 @@ class Developer:
 
 me = Developer()
 me.say_hi()
+```
 ---
 
 ## 🎪 What I'm Currently Up To (Spoiler: Too Much)
